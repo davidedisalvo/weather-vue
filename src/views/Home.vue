@@ -2,7 +2,7 @@
   <div class="home">
 <div class="jumbotron jumbotron-fluid" v-if="!loading">
   <div class="container">
-    <h1 class="display-4">CHECK THE WEATHER</h1>
+    <h1 class="display-3">CHECK THE WEATHER</h1>
     <p class="lead">FIND YOUR CITY</p>
   </div>
 </div>
