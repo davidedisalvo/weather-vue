@@ -412,7 +412,7 @@ export default {
       this.loading = true;
 
       axios
-      .get('http://api.openweathermap.org/data/2.5/forecast?q='+self.city+','+self.countryCode+'&appid=49f042b7a77ab562cf7c2fd0f68eee77')
+      .get('https://api.openweathermap.org/data/2.5/forecast?q='+self.city+','+self.countryCode+'&appid=49f042b7a77ab562cf7c2fd0f68eee77')
       .then(response => {
         self.cities.push(response.data.city)
 
