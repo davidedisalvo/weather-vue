@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "html2canvas": "^1.0.0-alpha.12",
-    "hummus": "^1.0.95",
+    "hummus": "^1.0.111",
     "hummus-recipe": "^1.8.3",
     "jspdf": "^1.5.3",
     "moment": "^2.24.0",
